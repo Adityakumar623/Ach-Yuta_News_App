@@ -1,4 +1,4 @@
-# Ach-Yuta_News_App
+# News_App
 
 
 Developed and deployed this website, leveraging HTML, CSS, and JavaScript, and integrating  APIs to retrieve and display real-time news content.
@@ -16,8 +16,8 @@ Developed and deployed this website, leveraging HTML, CSS, and JavaScript, and i
 
 ## Tech Stack
 
-* [HTML](https://html.org/)
-* [CSS](https://css.org/)
+* [HTML](https://html.com/)
+* [CSS](https://www.css3.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [News API](https://newsapi.org)
 
