@@ -1,7 +1,7 @@
 const API_KEY = "2618203ac3474180912733262724789a";
 const url = "https://newsapi.org/v2/everything?q=";
 
-window.addEventListener("load", () => fetchNews("India"));
+window.addEventListener("load", () => fetchNews("Mumbai"));
 
 function reload() {
     window.location.reload();
